@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# OS generated files
+.DS_Store
+*.swp
+
+# IDE specific files
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+
+# Environment variables
+.env
