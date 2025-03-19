@@ -12,7 +12,8 @@ A simple Weather API App retrieve and display real-time weather information by c
 
 1. **Clone the Repository**
 ```bash
-    git clone <https://github.com/yuutoa/weather-api-app.git>
+    git clone https://github.com/yuutoa/weather-api-app.git
+    cd weather-api-app
 ```
 
 2. **Create and Activate a Virtual Environment**
